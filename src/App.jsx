@@ -1,6 +1,3 @@
-# App.jsx (Modern Filipino-Inspired Portfolio • Tailwind CSS v3)
-
-```jsx
 export default function App() {
   const skills = [
     "React",
